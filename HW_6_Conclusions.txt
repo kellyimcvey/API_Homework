@@ -1,0 +1,15 @@
+API Homework Observations:
+
+    1) The first thing I observed here was the relation of latitude to the maximum temperature. Between -40/+20 relative to the equator, this is where we see the most similar/consistent livable temperatures. Really -20/+20 are the most alike with their maximum temperatures, but you do see a fairly strong correlation still, with a few exceptions, if you look further than just 20 degrees either way
+        You also can reach the conclusion that the futher you move away from the equator at 0 degrees, you see a downward trend in the maximum temperature as you move towards the poles.
+        
+    2) The second thing I observed was the correlation of latitude and humidity. Overall, I thought there wasn't a strong correlation between humidity & latitude. You can find 100% humidity pretty much across the spectrum, & other values are pretty sporadic. However, I did notice that the further you move north from the equator, between approximately +50-70, this is where you see the tightest correlation between 60-85%. If you move the same degrees the opposite direction towards the south pole, you do not see such a tight correlation trending. I would conclude that there is a more consistenly humid climate north of the equator, relative to the south of it. The maximum temperature is fairly cold at those coordinates of latitude, so it is colder/moist air. 
+    
+    3) I did not see a strong correlation between latitude and cloudiness. There is generally an equal chance of an overcast climate at any degree of latitude. 
+    
+    4) As far as wind speed is concerned, again, there is a fairly equal chance of wind speeds at any degree of latitude. According to the data, the only real observable useful trend would be the wind speed distribution. There are some points north of the equator, approximately between +38/60 degrees, where you see the fastest winds take place. They are overall higher than any point, on this data set, that is south of the equator. Purhaps we can conclude that the north pole is windier than the south? If you wrote a code that also showed the correlating longitude, you could further explore that idea. 
+    
+    
+   5) After analyzing all the data sets, you can also conclude that north of the equator there are a greater amount of data points. This suggests that there are a greater number of cities north of the equator, accoriding to this sample group. By observing a world map this could be easily true, however.
+   
+   
